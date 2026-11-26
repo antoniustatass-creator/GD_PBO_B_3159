@@ -43,7 +43,6 @@ function berikanUangSaku(daftar) {
     });
 }
 
-// Uji coba eksekusi
 const budi_3159 = new Programmer("Budi_3159");
 const rina_3159 = new Magang("Rina_3159");
 const sari_3159 = new Desainer("Sari_3159");
